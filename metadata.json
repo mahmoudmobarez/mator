@@ -1,0 +1,6 @@
+{
+  "name": "Mator - Motorbike Ride Hailing",
+  "description": "A modern mobile application for Mator, a ride-hailing service specifically for motorbikes. It allows users to sign up as riders or drivers, manage rides, payments, and profiles.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
